@@ -1,5 +1,6 @@
 {
-	"author": "z765089123",
+	"author": "David Marlowe",
+  ""description": "Hacking FCC and Glitch together so I con do some actual work",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
